@@ -1,0 +1,15 @@
+.t-shirt{
+border: 1px solid lightblue;
+border-radius: 15px;
+padding: 10px;
+}
+.t-shirt img{
+  height: 250px;
+  border-radius: 15px;
+}
+.btn-buy-now{
+  padding: 10px;
+  background-color: chartreuse;
+  border-radius: 8px;
+  cursor: pointer;
+}
